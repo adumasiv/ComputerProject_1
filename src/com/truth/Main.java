@@ -26,7 +26,7 @@ class Truth {
 
     Boolean biconditional(Boolean p, Boolean q)
     {
-        return (!p || q) && (!q || p);
+        return p == q;
     }
 
     public static void main(String[] args) {
