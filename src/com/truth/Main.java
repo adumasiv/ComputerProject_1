@@ -45,3 +45,4 @@ class Truth {
     }
 
 }
+//Other than what Nate said everything looks good.
